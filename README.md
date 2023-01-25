@@ -503,17 +503,19 @@ PRODUCTS.HTML
 
 ## OUTPUT:
 
-![OUTPUT](./images/output1.png)
-![OUTPUT](./images/output2.png)
-![OUTPUT](./images/output3.png)
-![OUTPUT](./images/output4.png)
-![OUTPUT](./images/output5.png)
-![OUTPUT](./images/output6.png)
 ![OUTPUT](./images/output7.png)
+![OUTPUT](./images/output6.png)
+![OUTPUT](./images/output5.png)
+![OUTPUT](./images/output4.png)
+![OUTPUT](./images/output3.png)
+![OUTPUT](./images/output2.png)
+![OUTPUT](./images/output1.png)
 ![OUTPUT](./images/output8.png)
 
 
 ### Home Page:
+
+![OUTPUT](./images/output7.png)
 
 ## Result:
 
