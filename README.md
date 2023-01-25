@@ -510,7 +510,11 @@ PRODUCTS.HTML
 ![OUTPUT](./images/output3.png)
 ![OUTPUT](./images/output2.png)
 ![OUTPUT](./images/output1.png)
-![OUTPUT](./images/output8.png)
+![OUTPUT](./images/output9.png)
+![OUTPUT](./images/output10.png)
+![OUTPUT](./images/output11.png)
+![OUTPUT](./images/output12.png)
+
 
 
 ### Home Page:
