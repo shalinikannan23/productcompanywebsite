@@ -193,7 +193,7 @@ body {
 
 CONTACTUS.HTML
 
-```
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -248,9 +248,9 @@ CONTACTUS.HTML
       </div>
 </body>
 </html>
-```
+
 PEOPLE.HTML
-```
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -326,9 +326,9 @@ PEOPLE.HTML
     </div>
   </body>
 </html>
-```
+
 HOME.HTML
-```
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -379,9 +379,9 @@ HOME.HTML
     </div>
   </body>
 </html>  
-```
+
 PRODUCTS.HTML
-```
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -503,8 +503,6 @@ PRODUCTS.HTML
 
 ## OUTPUT:
 
-### Home Page:
-
 ![OUTPUT](./images/output1.png)
 ![OUTPUT](./images/output2.png)
 ![OUTPUT](./images/output3.png)
@@ -514,6 +512,8 @@ PRODUCTS.HTML
 ![OUTPUT](./images/output7.png)
 ![OUTPUT](./images/output8.png)
 
+
+### Home Page:
 
 ## Result:
 
